@@ -1,6 +1,6 @@
 # Hi there, I'm Kaleem 👋
 
-Hello, I'm Kaleem, I have over 14 years of experience in the IT industry, specializing in Flutter, Dart, Angular, Node, Type-Script, Express, Java, Spring boot, Python and now working on the AI side as well. I have had the privilege of working with esteemed companies such as Decker, MaxniAI, and GAEA, where I have consistently delivered exceptional results.
+Hello, I'm Kaleem, I have over 14 years of experience in the IT industry, specializing in Flutter, Dart, Angular, React, Node, Type-Script, Express, Java, Spring boot and Python . I have had the privilege of working with esteemed companies such as Decker, MaxniAI, and GAEA, where I have consistently delivered exceptional results.
 
 As an expert in Mobile/Web, I bring a unique blend of Full Stack Developer/IT Consultant and a proven track record of driving positive outcomes, growth and innovation for any company. My analytical and problem-solving skills are backed by a deep understanding of the industry.
 

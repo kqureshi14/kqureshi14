@@ -17,4 +17,3 @@ My passion lies in keeping learning new stuff, which drives me to continuously l
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kaleem-qureshi-57a06b40/)
 - [Portfolio](https://kaleemqureshiportfolio.vercel.app/)
-- kaleem14you@gmail.com

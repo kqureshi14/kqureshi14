@@ -12,5 +12,5 @@ I'm a developer focused on cross-platform application development, specializing 
 - [Real-time Translation App](https://github.com/kaleem/real-time-translation) - Flutter app to translate text in real-time using the camera.
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/kaleem)
-- [Twitter](https://twitter.com/kaleem_dev)
+- [LinkedIn](https://www.linkedin.com/in/kaleem-qureshi-57a06b40/)
+- [Portfolio](https://kaleemqureshiportfolio.vercel.app/)

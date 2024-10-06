@@ -12,6 +12,8 @@ I am not only an expert but also a team player. I thrive in collaborative enviro
 
 My passion lies in keeping learning new stuff, which drives me to continuously learn and evolve in my profession. I am dedicated to serve and share my knowledge to keep growing and am always looking for new challenges to further my expertise.
 
+I have hands-on experience with renowned models such as YOLOV5, Segment Anything Model (SAM), Mask-RCNN, DeepLabV3, FaceNet, Arcface, DeepSort, ByteTrack, Runway Gen-2, GPT3.5, Tesseract. Now my primary programming language become Python, and I am an expert in working with TensorFlow, Keras, PyTorch, OpenCV, NumPy, SciPy, Pandas, Flask, PyQt, and Tkinter. Additionally, I am proficient in Flutter, Angular, Node , Java and MongoDB.
+
 Key Skills
 * AI/ML Integration
 * Python for AI Solutions

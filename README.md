@@ -1,32 +1,63 @@
-# Hi there, I'm Kaleem 👋
+👋 Hello, I'm Kaleem
 
-Hello, I'm Kaleem, I have over 14 years of experience in the IT industry, specializing in Flutter, Dart, Angular, Node, Type-Script, Express, Java, Spring boot, Python and now working on the AI side as well. I have had the privilege of working with esteemed companies such as Decker, MaxniAI, and GAEA, where I have consistently delivered exceptional results.
+I’m a Full Stack Developer & AI Automation Expert with over 14 years of experience in the IT industry. My expertise spans across Flutter, Angular, Node.js, TypeScript, Java (Spring Boot), and Python, and in recent years, I’ve specialized in AI automation, conversational agents, and intelligent workflow systems.
 
-Throughout my career, I have achieved significant milestones, including successful project completion of Decker products for American College for Surgeon, American College for Physicians, maintained their weekly curriculums, monthly letters, continued education programs for 5 years on technical side where i managed their team of 15 resources, extensive worked in MaxinAI in mobile development and successfully executed, delivered and maintained their product in Flutter, with GAEA worked and developed new features in their SAAS product EXTO by provide my services as Full Stack Developer. These accomplishments demonstrate my commitment to excellence and my ability to overcome complex challenges.
+I’ve had the privilege of working with companies such as Decker, MaxinAI, and GAEA, where I consistently delivered high-performance, scalable solutions and led teams toward successful product outcomes.
 
-As an expert in Mobile/Web and now in AI, I bring a unique blend of Full Stack Developer/AI Consultant and a proven track record of driving positive outcomes, growth and innovation for any company. My analytical and problem-solving skills are backed by a deep understanding of the industry.
+🚀 Career Highlights
 
-As I expanded into AI, I began integrating AI-driven solutions into mobile and web applications. I led a project automating the integration of 3D body-scan outputs into apparel pattern-making software, leveraging AI for seamless data transfer. Additionally, I built a real-time text translation app using AI models for language processing.
+Decker – Managed a 15-member technical team, delivering weekly curriculums, monthly letters, and education programs for clients like the American College of Surgeons and American College of Physicians for over 5 years.
 
-I am not only an expert but also a team player. I thrive in collaborative environments, where I can contribute to and lead teams towards achieving shared goals. My leadership experience has taught me the value of communication, mentoring, and fostering a positive work culture.
+MaxinAI – Developed robust mobile applications in Flutter, implementing Bloc pattern, AutoRoute, and Freezed models for efficient architecture and maintainability.
 
-My passion lies in keeping learning new stuff, which drives me to continuously learn and evolve in my profession. I am dedicated to serve and share my knowledge to keep growing and am always looking for new challenges to further my expertise.
+GAEA (EXTO) – Served as a Full Stack Developer, developing and enhancing features for their SaaS product, integrating APIs, and improving backend performance.
 
-I have hands-on experience with renowned models such as YOLOV5, Segment Anything Model (SAM), Mask-RCNN, DeepLabV3, FaceNet, Arcface, DeepSort, ByteTrack, Runway Gen-2, GPT3.5, Tesseract. My primary programming language is Python, and I am an expert in working with TensorFlow, Keras, PyTorch, OpenCV, NumPy, SciPy, Pandas, Flask, PyQt, and Tkinter. Additionally, I am proficient in Flutter, Angular, Node , Java and MongoDB.
+🤖 AI Automation & Intelligent Systems
 
-Key Skills
-* AI/ML Integration
-* Python for AI Solutions
-* Real-Time Text Recognition and Translation using AI
-* Automation in 3D Scanning & Apparel Pattern-Making Systems
-* AI-driven UX/UI Design
-* API Development for Seamless Data Transfer
+In my recent work, I’ve focused on AI automation and agent-based systems, integrating NLP, LLMs, and workflow automation tools to build intelligent, real-world business solutions:
 
-Feel free to reach out to me at kaleem14you@gmail.com.
+💬 WhatsApp AI Appointment System – Automated client scheduling using WhatsApp, AI, and API integrations for real-time communication.
 
-#Flutter #TensorFlow #AI #Python #React
+🍽️ WhatsApp Restaurant Ordering System – Built conversational ordering bots capable of handling dynamic menus, payments, and order tracking.
 
+💊 WhatsApp Pharmacy Ordering System – Created an AI-powered prescription and order management workflow, automating the full customer journey.
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kaleem-qureshi-57a06b40/)
-- [Portfolio](https://kaleemqureshiportfolio.vercel.app/)
+🗣️ AI Calling & Chat Bots – Designed intelligent conversational agents with multilingual support for business communication and lead engagement.
+
+📄 Auto Salary Slip Generation Workflow – Built a fully automated system that reads Excel data, generates salary slips, and sends them via email using n8n, Python, and AI-based validation logic.
+
+🧠 AI & Automation Stack
+
+AI/LLM Models & Tools – GPT-3.5, ElevenLabs, Whisper, LangChain, OpenAI API, Voiceflow, n8n
+
+Languages & Frameworks – Python, Node.js, Java (Spring Boot), Flutter, Angular
+
+AI & Data Libraries – TensorFlow, PyTorch, OpenAI SDK, Pandas, NumPy, OpenCV (for automation tasks)
+
+Integration Platforms – n8n, REST APIs, Webhooks, WhatsApp Cloud API, Twilio, Microsoft Teams
+
+Databases – MongoDB, MySQL, PostgreSQL
+
+🔑 Key Skills
+
+AI Agent Development (Chat, Voice, WhatsApp)
+
+Automation Workflow Design & Integration
+
+Conversational AI and NLP System Development
+
+API Design for Multi-Platform Automation
+
+Real-Time Data Processing & Reporting
+
+Cross-Platform Mobile and Web Development
+
+AI-Enhanced UX/UI and Smart User Interactions
+
+📬 Let’s Connect
+
+📧 Email: kaleem14you@gmail.com
+
+🏷️ Tech Tags
+
+#AI #Automation #Chatbot #WhatsAppBot #Python #Flutter #n8n #Node #Angular #LangChain #VoiceBot #SpringBoot #FullStack #LLM #WorkflowAutomation #Innovation

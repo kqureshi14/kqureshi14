@@ -63,10 +63,10 @@ during regional outage. Zero data loss. Under 4 hours.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Work
 
-![Kaleem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kqureshi14&show_icons=true&theme=dark&hide_border=true&bg_color=080A0F&title_color=00E5A0&icon_color=00E5A0)
-
+🌐 See all live projects and demos at:  
+**[kaleemqureshiportfolio.vercel.app](https://kaleemqureshiportfolio.vercel.app)**
 ---
 
 ## 🤝 Available for Freelance Contracts

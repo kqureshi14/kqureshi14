@@ -1,63 +1,91 @@
-👋 Hello, I'm Kaleem
+# 👋 Hi, I'm Kaleem Qureshi
+### AI Automation Engineer & DevOps Specialist — Remote Worldwide
 
-I’m a Full Stack Developer & AI Automation Expert with over 14 years of experience in the IT industry. My expertise spans across Flutter, Angular, Node.js, TypeScript, Java (Spring Boot), and Python, and in recent years, I’ve specialized in AI automation, conversational agents, and intelligent workflow systems.
+I build AI agents and automation systems that run 24/7 
+without human supervision — for businesses in USA, UK, 
+Canada, Europe, Gulf, and worldwide.
 
-I’ve had the privilege of working with companies such as Decker, MaxinAI, and GAEA, where I consistently delivered high-performance, scalable solutions and led teams toward successful product outcomes.
+14+ years in software. Last 2 years: pure AI automation.
 
-🚀 Career Highlights
+🌐 Portfolio: kaleemqureshiportfolio.vercel.app  
+💼 LinkedIn: linkedin.com/in/kaleem-qureshi-ai  
+📧 Email: kaleem14you@gmail.com  
+📱 WhatsApp: +92 333 5204168  
 
-Decker – Managed a 15-member technical team, delivering weekly curriculums, monthly letters, and education programs for clients like the American College of Surgeons and American College of Physicians for over 5 years.
+---
 
-MaxinAI – Developed robust mobile applications in Flutter, implementing Bloc pattern, AutoRoute, and Freezed models for efficient architecture and maintainability.
+## 🤖 AI Agents & Automation — Live in Production
 
-GAEA (EXTO) – Served as a Full Stack Developer, developing and enhancing features for their SaaS product, integrating APIs, and improving backend performance.
+🍽️ **WhatsApp Restaurant Ordering System**  
+QR code → WhatsApp → order placed → kitchen notified.
+No app download. Works on any phone. Live demo available.
+`WhatsApp API` `n8n` `Python` `QR`
 
-🤖 AI Automation & Intelligent Systems
+🎯 **Industry Lead Extraction Agent**  
+Input any city + industry → 500 business contacts 
+(phone, email, social) exported to Excel in 10 minutes.  
+`Python` `Selenium` `OpenAI API` `n8n`
 
-In my recent work, I’ve focused on AI automation and agent-based systems, integrating NLP, LLMs, and workflow automation tools to build intelligent, real-world business solutions:
+📱 **Social Media Manager via WhatsApp**  
+Send instructions on WhatsApp → agent posts to Facebook 
+and Instagram automatically. Live for salon client.  
+`WhatsApp API` `Meta Graph API` `n8n` `OpenAI`
 
-💬 WhatsApp AI Appointment System – Automated client scheduling using WhatsApp, AI, and API integrations for real-time communication.
+📧 **Automated Cold Email Sender**  
+150 AI-personalized emails per day. Rotating senders, 
+reply tracking. Got first client within 30 days.  
+`n8n` `SMTP` `OpenAI API` `Python`
 
-🍽️ WhatsApp Restaurant Ordering System – Built conversational ordering bots capable of handling dynamic menus, payments, and order tracking.
+📅 **WhatsApp Appointment Booking System**  
+Book, reschedule, cancel via WhatsApp. Real-time 
+availability, instant confirmation, auto reminders.  
+`WhatsApp API` `Google Calendar API` `n8n`
 
-💊 WhatsApp Pharmacy Ordering System – Created an AI-powered prescription and order management workflow, automating the full customer journey.
+⚡ **AWS Emergency Infrastructure Migration**  
+Full production migration from Middle East to Singapore 
+during regional outage. Zero data loss. Under 4 hours.  
+`AWS EC2` `RDS` `Route53` `Docker` `nginx`
 
-🗣️ AI Calling & Chat Bots – Designed intelligent conversational agents with multilingual support for business communication and lead engagement.
+---
 
-📄 Auto Salary Slip Generation Workflow – Built a fully automated system that reads Excel data, generates salary slips, and sends them via email using n8n, Python, and AI-based validation logic.
+## 🧠 Tech Stack
 
-🧠 AI & Automation Stack
+**AI & Automation**  
+`LangChain` `OpenAI API` `n8n` `WhatsApp Business API`
+`Python` `Selenium` `ElevenLabs` `Whisper` `Voiceflow`
 
-AI/LLM Models & Tools – GPT-3.5, ElevenLabs, Whisper, LangChain, OpenAI API, Voiceflow, n8n
+**DevOps & Cloud**  
+`AWS` `Docker` `VPS` `CI/CD` `nginx` `Route53`
 
-Languages & Frameworks – Python, Node.js, Java (Spring Boot), Flutter, Angular
+**Development**  
+`Flutter` `Node.js` `TypeScript` `Angular` `Java Spring Boot`
+`MongoDB` `PostgreSQL` `MySQL` `REST APIs`
 
-AI & Data Libraries – TensorFlow, PyTorch, OpenAI SDK, Pandas, NumPy, OpenCV (for automation tasks)
+---
 
-Integration Platforms – n8n, REST APIs, Webhooks, WhatsApp Cloud API, Twilio, Microsoft Teams
+## 📊 GitHub Stats
 
-Databases – MongoDB, MySQL, PostgreSQL
+![Kaleem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kqureshi14&show_icons=true&theme=dark&hide_border=true&bg_color=080A0F&title_color=00E5A0&icon_color=00E5A0)
 
-🔑 Key Skills
+---
 
-AI Agent Development (Chat, Voice, WhatsApp)
+## 🤝 Available for Freelance Contracts
 
-Automation Workflow Design & Integration
+I work with small and medium businesses, SaaS founders, 
+and agencies who want to automate operations and scale 
+without hiring more staff.
 
-Conversational AI and NLP System Development
+**What I can build for you:**
+- AI agents that run your business processes automatically
+- WhatsApp bots for ordering, booking, support, social media
+- n8n workflows connecting all your business tools
+- AWS infrastructure that stays up even in a crisis
 
-API Design for Multi-Platform Automation
+📩 **kaleem14you@gmail.com**  
+📱 **WhatsApp: +92 333 5204168**  
+🌐 **kaleemqureshiportfolio.vercel.app**
 
-Real-Time Data Processing & Reporting
+---
 
-Cross-Platform Mobile and Web Development
-
-AI-Enhanced UX/UI and Smart User Interactions
-
-📬 Let’s Connect
-
-📧 Email: kaleem14you@gmail.com
-
-🏷️ Tech Tags
-
-#AI #Automation #Chatbot #WhatsAppBot #Python #Flutter #n8n #Node #Angular #LangChain #VoiceBot #SpringBoot #FullStack #LLM #WorkflowAutomation #Innovation
+#AI #Automation #n8n #WhatsAppBot #AIAgent #LangChain 
+#Python #DevOps #AWS #Flutter #OpenAI #WorkflowAutomation
